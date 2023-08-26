@@ -1,0 +1,1 @@
+python GateEditor.py --icon=task_bar.ico
