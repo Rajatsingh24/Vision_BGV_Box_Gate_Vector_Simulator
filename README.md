@@ -73,39 +73,39 @@ Vision BGV Box Gate Vector
 ### Example of use 👇
 
 ## How to Use:
-1. #### Keys to control Simulator 
+1. ### Keys to control Simulator 
     * For menu : `Shift + RMB`
     * For Select gate/connection : `LMB`
     * For Toggle Input : `Ctrl + RMB`
     * For Deselect connection : `RMB`
-2. #### Included Gesture in Vision Mode
-$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/1.jpg?raw=true" alt="drawing" width="100"/>
+2. ### Included Gesture in Vision Mode
+$~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/1.jpg?raw=true" alt="drawing" width="100"/>
 
-$~~$ `Preffered Gesture for mouse pointer`
+$~~~~$ `Preffered Gesture for mouse pointer`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/2.jpg?raw=true" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/2.jpg?raw=true" alt="drawing" width="100"/>
 
 $~~~~~~~~~~~~~~~~~~~$ `Mouse Left Click`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/3.jpg?raw=true" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/3.jpg?raw=true" alt="drawing" width="100"/>
 
-$~~~~~~~~~~~~~~~~~~$ `Mouse Right Click`
+$~~~~~~~~~~~~~~~~~~~$ `Mouse Right Click`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/4.jpg?raw=true" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/4.jpg?raw=true" alt="drawing" width="100"/>
 
-$~~~~~~~~~~~~~~~~~~~~~~~~$ `Menu Bar`
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~$ `Menu Bar`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/5.jpg?raw=true" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/5.jpg?raw=true" alt="drawing" width="100"/>
 
-$~~~~~~~~~~~~~~~~~~~~~$ `Toggle Imput`
+$~~~~~~~~~~~~~~~~~~~~~~~$ `Toggle Imput`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/6.jpg?raw=true" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/6.jpg?raw=true" alt="drawing" width="100"/>
 
-$~~~~~~~~~~~~~~~~~~~~~~~~$ `Recenter`
+$~~~~~~~~~~~~~~~~~~~~~~~~~~$ `Recenter`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/7.jpg?raw=true" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/7.jpg?raw=true" alt="drawing" width="100"/>
 
-$~~~~~~~~~~~~~~~~~~~~~~~~$ `Simulate`
+$~~~~~~~~~~~~~~~~~~~~~~~~~~$ `Simulate`
 
 
 ## Created BY :
