@@ -1,0 +1,4 @@
+opencv-python==4.8.0.74
+pygame==2.5.1
+mediapipe==0.10.3
+torch==2.0.1
