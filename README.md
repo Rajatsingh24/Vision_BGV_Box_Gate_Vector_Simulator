@@ -79,31 +79,31 @@ Vision BGV Box Gate Vector
     * For Toggle Input : `Ctrl + RMB`
     * For Deselect connection : `RMB`
 2. #### Included Gesture in Vision Mode
-$~~~~~~~~~~~~~~~~~~~~$ <img src="Sample/1.jpg" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/1.jpg?raw=true" alt="drawing" width="100"/>
 
 $~~$ `Preffered Gesture for mouse pointer`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="Sample/2.jpg" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/2.jpg?raw=true" alt="drawing" width="100"/>
 
 $~~~~~~~~~~~~~~~~~~~$ `Mouse Left Click`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="Sample/3.jpg" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/3.jpg?raw=true" alt="drawing" width="100"/>
 
 $~~~~~~~~~~~~~~~~~~$ `Mouse Right Click`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="Sample/4.jpg" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/4.jpg?raw=true" alt="drawing" width="100"/>
 
 $~~~~~~~~~~~~~~~~~~~~~~~~$ `Menu Bar`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="Sample/5.jpg" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/5.jpg?raw=true" alt="drawing" width="100"/>
 
 $~~~~~~~~~~~~~~~~~~~~~$ `Toggle Imput`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="Sample/6.jpg" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/6.jpg?raw=true" alt="drawing" width="100"/>
 
 $~~~~~~~~~~~~~~~~~~~~~~~~$ `Recenter`
 
-$~~~~~~~~~~~~~~~~~~~~$ <img src="Sample/7.jpg" alt="drawing" width="100"/>
+$~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/7.jpg?raw=true" alt="drawing" width="100"/>
 
 $~~~~~~~~~~~~~~~~~~~~~~~~$ `Simulate`
 
