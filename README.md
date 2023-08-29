@@ -79,6 +79,10 @@ Vision BGV Box Gate Vector
     * For Toggle Input : `Ctrl + RMB`
     * For Deselect connection : `RMB`
 2. ### Included Gesture in Vision Mode
+$~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/6.jpg?raw=true" alt="drawing" width="100"/>
+
+$~~~~~~~~~~~~~~~~~~~~~~~~~~$ `Recenter`
+
 $~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/1.jpg?raw=true" alt="drawing" width="100"/>
 
 $~~~~$ `Preffered Gesture for mouse pointer`
@@ -98,10 +102,6 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~$ `Menu Bar`
 $~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/5.jpg?raw=true" alt="drawing" width="100"/>
 
 $~~~~~~~~~~~~~~~~~~~~~~~$ `Toggle Imput`
-
-$~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/6.jpg?raw=true" alt="drawing" width="100"/>
-
-$~~~~~~~~~~~~~~~~~~~~~~~~~~$ `Recenter`
 
 $~~~~~~~~~~~~~~~~~~~~~~~$ <img src="https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/blob/main/Sample/7.jpg?raw=true" alt="drawing" width="100"/>
 
