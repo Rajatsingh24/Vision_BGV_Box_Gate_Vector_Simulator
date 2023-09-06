@@ -72,6 +72,8 @@ Vision BGV Box Gate Vector
 ![](Sample/tutorial_1.png)
 ### Example of use 👇
 
+https://github.com/Rajatsingh24/Vision_BGV_Box_Gate_Vector_Simulator/assets/114977647/b03e875f-d520-4087-8ce5-a2cb35b122f2
+
 ## How to Use:
 1. ### Keys to control Simulator 
     * For menu : `Shift + RMB`
